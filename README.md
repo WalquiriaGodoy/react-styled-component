@@ -11,3 +11,10 @@ Porque usar inline styles é algo ruim
 Como usar Heranças de estilo
 Sobre possíveis problemas de performance caso um Styled Component seja declarado dentro de um outro componente React
 Como tratar de media queries dentro dos componentes estilizados
+Como compor elementos estilizados para criar novas telas
+Vantagens de usar componentes para criar layouts
+Utilizando styled components apenas para estilização
+Porque evitar o uso de switch-case
+Como organizar os temas do nosso projeto
+O que é o ThemeProvider do styledComponents
+Como alterar cores de icones SVG usando filters
