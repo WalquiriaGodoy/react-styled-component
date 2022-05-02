@@ -1,3 +1,13 @@
+# React: Styled Component
+
+---
+
+## Formação React Alura
+
+---
+
+### Conteúdo do Curso:
+
 Como instalar o Styled Components dentro do projeto
 Como criar um componente com o Styled Components
 Sobre a geração automática de classes
